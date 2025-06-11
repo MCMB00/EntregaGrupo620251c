@@ -1,0 +1,41 @@
+default-duid "\000\001\000\001&\024\244&\010\000'\354\230\334";
+lease {
+  interface "enp0s3";
+  fixed-address 10.64.7.237;
+  option subnet-mask 255.255.255.0;
+  option time-offset -10800;
+  option dhcp-lease-time 3600;
+  option routers 10.64.7.254;
+  option dhcp-message-type 5;
+  option dhcp-server-identifier 10.6.6.249;
+  option domain-name-servers 10.1.1.3,10.1.1.9,10.1.1.19;
+  option domain-search "bancocredicoop.coop.";
+  option interface-mtu 1500;
+  option broadcast-address 10.64.7.255;
+  option ntp-servers 10.1.1.88,10.1.1.89;
+  option netbios-name-servers 10.1.1.3,10.1.1.9,10.1.1.19;
+  option domain-name "bancocredicoop.coop";
+  renew 3 2024/12/04 21:10:45;
+  rebind 3 2024/12/04 21:39:47;
+  expire 3 2024/12/04 21:47:17;
+}
+lease {
+  interface "enp0s3";
+  fixed-address 10.64.7.237;
+  option subnet-mask 255.255.255.0;
+  option time-offset -10800;
+  option dhcp-lease-time 3600;
+  option routers 10.64.7.254;
+  option dhcp-message-type 5;
+  option dhcp-server-identifier 10.6.6.249;
+  option domain-name-servers 10.1.1.3,10.1.1.9,10.1.1.19;
+  option domain-search "bancocredicoop.coop.";
+  option interface-mtu 1500;
+  option broadcast-address 10.64.7.255;
+  option ntp-servers 10.1.1.88,10.1.1.89;
+  option netbios-name-servers 10.1.1.3,10.1.1.9,10.1.1.19;
+  option domain-name "bancocredicoop.coop";
+  renew 3 2024/12/04 18:18:35;
+  rebind 3 2024/12/04 18:18:35;
+  expire 3 2024/12/04 18:18:35;
+}

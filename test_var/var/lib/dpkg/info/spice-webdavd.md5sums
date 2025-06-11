@@ -1,0 +1,5 @@
+8c41541b15fe7a5269aa88db5eb9e1c6  lib/systemd/system/spice-webdavd.service
+5df395bcf72172222befbed32ee5a4a9  lib/udev/rules.d/70-spice-webdavd.rules
+41f6ba1ea080d9242f28e9f3e87a7114  usr/sbin/spice-webdavd
+4d1acc51cbef61f5bec29a26f305fd5d  usr/share/doc/spice-webdavd/changelog.Debian.gz
+1f47974d6529e08970018c2c2fb7c816  usr/share/doc/spice-webdavd/copyright

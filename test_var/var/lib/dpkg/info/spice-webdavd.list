@@ -1,0 +1,16 @@
+/.
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/spice-webdavd.service
+/lib/udev
+/lib/udev/rules.d
+/lib/udev/rules.d/70-spice-webdavd.rules
+/usr
+/usr/sbin
+/usr/sbin/spice-webdavd
+/usr/share
+/usr/share/doc
+/usr/share/doc/spice-webdavd
+/usr/share/doc/spice-webdavd/changelog.Debian.gz
+/usr/share/doc/spice-webdavd/copyright

@@ -1,0 +1,8 @@
+ebe68fdccac9dc0c2c722dc77504efd1  usr/bin/9bind
+4a2fe3623f8760176f1e4d8d13eae68f  usr/bin/9mount
+d77d58571c69e5a522a490525e9a432c  usr/bin/9umount
+e899ce9d763cad139cb46a4104117859  usr/share/doc/9mount/changelog.Debian.gz
+a3c95cadd927f0bf96b4a735bfba9537  usr/share/doc/9mount/changelog.gz
+0b981c4c8c2554e8cc710b82b3b1f2ab  usr/share/doc/9mount/copyright
+5bc7645590cc672858d53892074fa51b  usr/share/lintian/overrides/9mount
+e6cea583acaacbfe8bc47e1ec20abca3  usr/share/man/man1/9mount.1.gz
